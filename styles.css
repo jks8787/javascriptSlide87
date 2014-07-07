@@ -1,11 +1,4 @@
-.left-right {
-    overflow:hidden;
-    height:200px;
-    width:200px;
-    position:relative;
-    background-color:#333;
-    clear: left;
-}
+
 div.l1,div.l2,div.l3,div.l4 {
     width:200px;
     height:200px;
@@ -16,6 +9,7 @@ div.l1,div.l2,div.l3,div.l4 {
 }
 a.l1,a.l2,a.l3,a.l4 {
     display: block;
+    color: white;
     width: 50px;
     height: 50px;
     float: left;
@@ -27,7 +21,7 @@ a:hover {
 }
 
 .l1{
-    color: red;
+    color: white;
     background-color:red;
 }
 .l2{
@@ -41,4 +35,9 @@ a:hover {
 .l4{
     color: purple;
     background-color:purple;
+}
+
+.slidehow-content-nav-list {
+    list-style-type: none;
+    display: inline-block;
 }

@@ -7,4 +7,4 @@ Running the App
 
  ## Sources
 
- Slide Code by [Totty](http://stackoverflow.com/a/21776056)
+ Slide Code Inspired by [Totty](http://stackoverflow.com/a/21776056)
